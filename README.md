@@ -1,102 +1,333 @@
-  **跨境电商是在不同国家或地区之间进行在线交易的商业活动，其本质是通过互联网技术和全球物流网络打破传统贸易壁垒，为消费者提供更加多元化、便捷化、优质化的购物体验，同时为卖家提供更广阔的市场和更高的销售机会。**
-
-  做好跨境电商要选择合适的产品，了解海外市场，选择合适的跨境电商平台，**建设独立站树立品牌形象，制定合适的定价策略，提供优质的售后服务，创新营销模式**。
+[![OSS Compass Analyze](https://compass.gitee.com/badge/smm5g728.svg)](https://compass.gitee.com/analyze/smm5g728)
+[![OSS Compass Analyze](https://compass.gitee.com/badge/smm5g728.svg?metric=activity)](https://compass.gitee.com/analyze/smm5g728#community_activity)
+[![OSS Compass Analyze](https://compass.gitee.com/badge/smm5g728.svg?metric=collab_dev_index)](https://compass.gitee.com/analyze/smm5g728#collaboration_development_index)
 
 # BizSpring商城、跨境电商，专注精品独立站
+
+ BizSpring长期专注于跨境电商提供解决方案。BizSpring提供强大的商城功能，支持19种国际主流语言，包括但不限于英语、法语、德语和俄语等常用语言，帮助商家更有效地触达全球不同地区消费者。  
+	BizSpring提供多种类型的在线商城建设模式，以满足不同客户的需求，包括传统PC端商城，适应移动设备的H5商城，APP商城等，还提供允许多个商家在同一平台上开设店铺并进行商品销售（多商户商城）的能力，以及快速扩展销售渠道的分销商城。每个需求都经过精心设计，力求为企业创造最佳用户体验的同时，能够极大地提升转化率与销售额。  
+	为增强平台吸引力，促进用户增长及复购，BizSpring还配备了丰富多样的营销能力。从基础的商品促销、优惠券发放到更加高级的积分兑换等功能齐全，帮助企业更好地抓住市场机遇，实现业务快速增长。
+
+## <font style="color:rgb(60, 60, 67);">开源文档</font>
+[http://docs.bizspring.cn](http://docs.bizspring.cn)
+
+## <font style="color:rgb(60, 60, 67);">BizSpring开源项</font><font style="color:rgb(64, 72, 91);">目链接</font>
+#### <font style="color:rgb(60, 60, 67);">Github</font>
+<font style="color:rgb(60, 60, 67);">数据库（微服务商城）</font>
+
+[https://github.com/bizspring-mall/BizSpring-Web-Mall](https://github.com/bizspring-mall/BizSpring-Web-Mall)[.git](https://github.com/bizspring-mall/BizSpring-Cross-Border-Mall.git)
+
+<font style="color:rgb(60, 60, 67);">VUE3页面（跨境电商）</font>
+
+[https://github.com/bizspring-mall/BizSpring-Cross-Border-Mall.git](https://github.com/bizspring-mall/BizSpring-Cross-Border-Mall.git)
+
+<font style="color:rgb(60, 60, 67);">微服务后台（Java商城）</font>
+
+[https://github.com/bizspring-open/BizSpring-Java-Mall.git](https://github.com/bizspring-open/BizSpring-Java-Mall.git)
+
+移动商城
+
+[https://github.com/bizspring-code/BizSpring-Mobile-Mall.git](https://github.com/bizspring-code/BizSpring-Mobile-Mall.git)
+
+小程序商城
+
+[https://github.com/bizspring-code/BizSpring-Applet-Mall.git](https://github.com/bizspring-code/BizSpring-Applet-Mall.git)
+
+微服务商城
+
+[https://github.com/bizspring-open/BizSpring-Cloud-Mall](https://github.com/bizspring-open/BizSpring-Cloud-Mall)[.git](https://github.com/bizspring-code/BizSpring-Applet-Mall.git)
+
+#### <font style="color:rgb(60, 60, 67);">Gitee</font>
+<font style="color:rgb(60, 60, 67);">数据库（微服务商城）</font>
+
+[https://gitee.com/bizSpring_mall/BizSpring-Cloud-Mall.git](https://gitee.com/bizSpring_mall/BizSpring-Cloud-Mall.git)
+
+<font style="color:rgb(60, 60, 67);">VUE3页面（跨境电商）</font>
+
+[https://gitee.com/BizSpringOpen/BizSpring-Cross-Border-Mall.git](https://gitee.com/BizSpringOpen/BizSpring-Cross-Border-Mall.git)
+
+<font style="color:rgb(60, 60, 67);">微服务后台（Java商城）</font>
+
+[https://gitee.com/bizSpring_mall/bizspring-java-mall.git](https://gitee.com/bizSpring_mall/bizspring-java-mall.git)
+
+移动商城
+
+[https://gitee.com/BizSpring-Source-Code/BizSpring-Mobile-Mall.git](https://gitee.com/BizSpring-Source-Code/BizSpring-Mobile-Mall.git)
+
+小程序商城
+
+[https://gitee.com/BizSpring-Source-Code/BizSpring-Applet-Mall.git](https://gitee.com/BizSpring-Source-Code/BizSpring-Applet-Mall.git)
+
+## <font style="color:rgb(64, 72, 91);">系统展示</font>
+![](cb-shop.png)
+
+# 体验地址
+| 系统 | H5二维码 | APP下载 | H5 URL | PC URL |
+| --- | --- | --- | --- | --- |
+| 商城 | ![输入图片说明](shop-h5.png) | ![输入图片说明](shop-apk.png) | https://cross-border.bizspring.cn/shop/# | https://cross-border.bizspring.cn/pc/# |
+| 商家 | ![输入图片说明](business-h5.png) | ![输入图片说明](business-apk.png) | https://cross-border.bizspring.cn/merchant/# | https://cross-border.bizspring.cn/biz/# |
+| 管理 | https://cross-border.bizspring.cn |  |  https://cross-border.bizspring.cn | https://cross-border.bizspring.cn |
+
+
 ### 开源文档
 [http://docs.bizspring.cn](http://docs.bizspring.cn)
 
-### 开源地址
-#### Github
-[https://github.com/BizSpringSource/bizspring-vue3-opensource.git](https://github.com/BizSpringSource/bizspring-vue3-opensource.git)
-# BizSpring核心开源框架
+## <font style="color:rgb(64, 72, 91);">授权</font>
+<font style="color:rgb(64, 72, 91);">除开源版本外，本商城还提供商业版本的商城，欲知详情，请访问官网。</font>
 
+<font style="color:rgb(64, 72, 91);">商城官网：</font>[<font style="color:rgb(9, 94, 171);">https://www.bizspring.c</font>](https://gitee.com/link?target=https%3A%2F%2Fwww.mall4j.com)<font style="color:rgb(9, 94, 171);">n</font>
+
+<font style="color:rgb(64, 72, 91);">商城使用 AGPLv3 开源，请遵守 AGPLv3 的相关条款.</font>
+
+## <font style="color:rgb(64, 72, 91);">系统核心框架</font>
 | 名称 | 框架 |
-|--|--|
+| --- | --- |
 | 核心框架 | spring boot、spring cloud、spring cloud alibaba |
 | 注册中心 | nacos |
-|  负载均衡| Spring Cloud Load balancer |
+| 负载均衡 | Spring Cloud Load balancer |
 | 服务调用: | open feign |
-|  服务容错:| Alibaba sentinel |
-| api网关 |  spring cloud gateway|
-| 分布式事务:| seata |
-|持久层框架  | MyBatis-plus |
+| 服务容错: | Alibaba sentinel |
+| api网关 | spring cloud gateway |
+| 分布式事务: | seata |
+| 持久层框架 | MyBatis-plus |
 | 高性能缓存 | redis redisson |
 | 文件管理 | Alibaba oss |
-| SMS短信  | Alibaba SMS |
+| SMS短信 | Alibaba SMS |
 | 安全 | oauth2+jwt |
-| 数据库 |mysql8+  |
-| API管理| swagger  |
+| 数据库 | mysql8+ |
+| API管理 | swagger |
 | 搜索引擎 | elasticsearch |
-| JDK版本| Java8+  |
+| JDK版本 | Java8+ |
 | PC端前段框架 | vue3+elementPlus |
-| 商家框架 |Uniapp+vue(一套代码多平台发布)  |
-| 商城框架 | Uniapp+vue(一套代码多平台发布)  |
+| 商家框架 | Uniapp+vue(一套代码多平台发布) |
+| 商城框架 | Uniapp+vue(一套代码多平台发布) |
 
-# BizSpring电商平台概述
 
-BizSpring电商平台，是基于最新Spring Cloud 微服务架构开发的多语言电商平台，使用领先的 Vue3.0+ElementPlus + uniapp技术开发的移动全端业务、实现了多平台同步构建及建设的解决方案。应用发布基于Uni-app，实现跨多个平台( H5、公众号、头条、抖音、小程序、iOS、Android 等 )使用。
+## 系统服务架构
+<font style="color:rgb(64, 72, 91);">本项目是一个极度遵守阿里巴巴代码规约的项目，以下是</font><font style="color:rgb(64, 72, 91);">商城部署后 API 说明</font>
 
-# 跨境客户
-**跨境电商运营需求**<br />在不同国家或地区之间进行在线交易的商业活动，其本质是通过互联网技术和全球物流网络打破传统贸易壁垒，为消费者提供更加多元化、便捷化、优质化的购物体验，同时为卖家提供更广阔的市场和更高的销售机会。
+| **<font style="color:rgb(64, 72, 91);">服务</font>** | **<font style="color:rgb(64, 72, 91);">服务说明</font>** |
+| :--- | :--- |
+| <font style="color:rgb(64, 72, 91);">ElasticSearch</font> | <font style="color:rgb(64, 72, 91);">搜索引擎服务</font> |
+| <font style="color:rgb(64, 72, 91);">bizspring-module-nacos</font> | <font style="color:#000000;">Nacos 服务</font> |
+| <font style="color:rgb(64, 72, 91);">bizspring-module-gatway </font> | <font style="color:rgb(64, 72, 91);">网管服务</font> |
+| <font style="color:rgb(64, 72, 91);">bizspring-auth </font> | <font style="color:rgb(64, 72, 91);">授权校验服务</font> |
+| <font style="color:rgb(64, 72, 91);">bizspring-upms </font> | <font style="color:rgb(64, 72, 91);">用户基础服务</font> |
+| <font style="color:rgb(64, 72, 91);">bizspring-marketing </font> | <font style="color:rgb(64, 72, 91);">营销服务</font> |
+| <font style="color:rgb(64, 72, 91);">bizspring-order </font> | <font style="color:rgb(64, 72, 91);">订单服务</font> |
+| <font style="color:rgb(64, 72, 91);">bizspring-store </font> | <font style="color:rgb(64, 72, 91);">店铺服务</font> |
+| <font style="color:rgb(64, 72, 91);">bizspring-goods </font> | <font style="color:rgb(64, 72, 91);">商品服务</font> |
 
-**海外电子商务运营**<br />在海外从事电子商务业务的客户，他们负责在国外网络上销售和提供在线交易业务，也被称为国际电商运营者、他们需要电商系统支持当地语言，对接当地在线支付系统及物流仓储平台，建立适于海外或当地发展的电商平台，扩展其销售业务。
 
-**移动电商运营者**<br />这些管理者、卖家可能没有固定的店铺、办公场所或长期移动办公，通过互联网和移动设备来管理自己的商品信息和订单。卖家使用电商平台提供的在线店铺管理工具或第三方软件来管理自己的商品库存、订单处理、发货等日常业务。相比于传统的实体店铺，这种电商经营模式具有更高的灵活性和便利性。
+## <font style="color:rgb(64, 72, 91);">代码目录结构</font>
+本项目严格遵循了阿里巴巴的代码规约，确保了代码的质量、可读性和维护性。以保证每一行代码都符合阿里巴巴制定的最佳实践标准.
 
-**需要技术领先、稳定健壮的系统、二次开发再开发**<br />需要领先的技术、扩展性好、运营稳定、需要灵活扩展业务的系统、并具备一定开发能力的客户。这些客户通常会选择使用新技术来提高他们的业务效率和开发能力，同时也会考虑如何让他们的软件系统具有良好的扩展性和稳定性，以便更好地满足业务需求和未来发展的需要，提高自身的市场竞争力。
+1. **命名规范**：所有变量、函数、类等命名均采用了有意义且易于理解的名字，并按照阿里编码指南中的推荐格式进行书写。
+2. **注释与文档**：重要逻辑部分均有清晰的注释说明；公共方法和类提供了详尽的Javadoc或等效文档描述。
+3. **代码结构**：保持了良好的模块化设计，每个文件只负责单一功能，避免了冗长复杂的单个文件出现。
+4. **异常处理**：对于可能出现错误的情况，实现了适当的异常捕获机制，并给出了合理的错误信息反馈。
+5. **性能优化**：尽量减少了不必要的资源消耗，比如避免了循环中重复计算等常见问题。
+6. **安全性考量**：特别注意了数据验证和安全漏洞防护，如SQL注入攻击防范等 。 同时大部分现有代码已经很好地达到了高质量的标准。未来，我们将持续关注这些指标，不断优化和完善我们的软件开发流程，以提供更加稳定可靠的产品给用户。
 
-# 使用场景
-BizSpring电商平台实现移动全渠道消费者覆盖，手机触屏商城、移动微信商城、微信小程序商城、抖音小程序商城、QQ小程序商城、快手小程序商城、小红书小程序商城、钉钉小程序商城版、苹果APP商城及安卓APP商城，数据统一运营，让您一次开店，全通路覆盖。
+```plain
+# 项目结构说明书
 
-**自营商业运营模式**<br />企业通过建立自营商城平台，整合自身渠道业务。通过会员、商品、订单、财务和库存等的管理，对线下线上多渠道业务进行统一管理。
+bizspring_i18n/
+├── 1.bizspring_shop_i18n_uni/  //用户移动端
+│   ├── api/  //API包                                    
+│   │   ├── goods/  //商品API包
+│   │   ├── marketing/  //促销API包
+│   │   ├── order/  //订单API包
+│   │   ├── store/  //店铺相关API包
+│   │   └── upms/  //个人中心API包
+│   ├── components/  //控件包
+│   ├── config/  //后台服务URL配置接口文件夹
+│   ├── goods/  //商品视图包
+│   ├── marketing/  //营销视图包
+│   ├── order/  //订单视图包
+│   ├── pages/  //主页面视图包
+│   ├── static/ //静态资源
+│   ├── store/  //店铺相关视图包
+│   ├── system/  //系统级视图包
+│   ├── uni_modules/  //插件模块
+│   ├── unpackage/  //打包输出目录
+│   ├── upms/  //个人中心视图包
+│   ├── utils/  //工具类
+│   ├── App.vue
+│   ├── main.js
+│   ├── pages.json
+│   └── vue.config.js
+│
+│
+├── 2.bizspring-shop-pc-i18n/  //用户PC端
+│   ├── public/
+│   │   └── config.js  //后台服务URL配置接口
+│   ├── src/
+│   │   ├── api/
+│   │   │   ├── goods/  //商品API包
+│   │   │   ├── marketing/  //营销API包
+│   │   │   ├── order/  //订单API包
+│   │   │   ├── store/  //店铺API包
+│   │   │   ├── upms/  //个人中心API包
+│   │   │   ├── login.js  //登录接口
+│   │   │   └── user.js  //用户接口
+│   │   ├── assets/   //静态资源
+│   │   ├── common/  //公共文件夹
+│   │   ├── components/  //控件包
+│   │   ├── lang/  //多语言文件夹
+│   │   ├── page/  //主视图包
+│   │   │   └── userInfo/  //个人中心视图包
+│   │   ├── store/  //店铺视图包
+│   │   ├── util/工具包
+│   │   ├── App.vue
+│   │   ├── main.js
+│   │   └── store.js
+│   └── vue.config.js
+│
+├── 3.bizspring-biz-vue3-i18n/  //商家PC端
+│   ├── biz/
+│   ├── public/
+│   │   └── config.js  //后台服务URL配置接口
+│   ├── src/
+│   │   ├── api/  //API接口包
+│   │   │   ├── goods/  //商品API包
+│   │   │   ├── marketing/  //营销API包
+│   │   │   ├── order/  //订单API包
+│   │   │   ├── store/  //店铺API包
+│   │   │   ├── upms/  //个人中心API包
+│   │   ├── assets/  //资源文件夹
+│   │   ├── components/  //组件包
+│   │   ├── const/  //页面数据配置
+│   │   ├── page/主页框架视图包
+│   │   │   ├── index/  //主页面视图包
+│   │   ├── router/  //路由包
+│   │   ├── store/  //VUE store 包
+│   │   ├── styles/  //主页面主题相关
+│   │   ├── utils/  //工具包
+│   │   ├── views/  //VUE页面文件夹
+│   │   │   ├── marketing/  //促销页面包
+│   │   │   ├── order/  //订单页面包
+│   │   │   ├── store/  //店铺页面包
+│   │   │   └── upms/  //个人中心页面包
+│   │   ├── App.vue
+│   │   └── main.js
+│   ├── vite/
+│   └── vite.config.js
+│
+├── 4.bizspring_merchant_i18n_uni/  //商家移动端
+│   ├── api/
+│   │   ├── goods/  //商品API包
+│   │   ├── marketing/  //促销API包
+│   │   ├── order/  //订单API包
+│   │   ├── store/  //店铺API包
+│   │   └── upms/  //个人中心API包
+│   ├── components/  //控件包
+│   ├── config/  //后台服务URL配置接口文件夹
+│   │   └── config.js  //后台服务URL配置接口
+│   ├── goods/  //商品页面包
+│   ├── marketing/  //促销页面包
+│   ├── order/  //订单页面包
+│   ├── pages/  //启动页首页文件夹
+│   ├── static/  //静态文件夹
+│   ├── store/  //店铺页面包
+│   ├── upms/  //个人中心页面
+│   ├── utils/  //工具类
+│   ├── utilviews/  //工具视图
+│   ├── App.vue
+│   ├── main.js
+│   ├── package.json
+│   └── pages.json
+│
+├── 5.bizspring-admin-vue3-i18n/  //管理平台-前端vue
+│   ├── public/  //公共文件夹
+│   │   └── config.js  //后台服务URL配置接口
+│   ├── src/
+│   │   ├── api/  //管理平台vue接口文件夹
+│   │   │   ├── gen/  //代码生成API包
+│   │   │   ├── goods/  //商品管理API包
+│   │   │   ├── marketing/  //促销管理API包
+│   │   │   ├── order/  //订单管理API包
+│   │   │   ├── store/  //店铺管理API包
+│   │   │   ├── upms/  //平台管理API包
+│   │   │   ├── i18n.js  //多语言API接口
+│   │   │   └── login.js  //登录API接口
+│   │   ├── assets/  //资源文件夹
+│   │   ├── components/  //组件文件夹
+│   │   ├── const/  //平台管理页面数据配置
+│   │   ├── page/  //框架页面文件夹
+│   │   │   ├── index/  //主页文件夹
+│   │   │   └── login/  //登录文件夹
+│   │   ├── router/  //路由包
+│   │   ├── store/  //vue store包
+│   │   ├── styles/  //主页主题相关
+│   │   ├── utils/  //工具类
+│   │   ├── views/  //页面文件夹
+│   │   │   ├── goods/  //商品页面文件夹
+│   │   │   ├── marketing/  //促销页面文件夹
+│   │   │   ├── order/  //订单页面文件夹
+│   │   │   ├── store/  //店铺页面文件夹
+│   │   │   ├── tool/  //代码生成页面文件夹
+│   │   │   └── upms/  //平台管理页面文件夹
+│   │   ├── App.vue
+│   │   └── main.js
+│   └── vite.config.js
+│
+├── 6.bizspring-java-i18n/  //Java服务端
+│   ├── bizspring-base/  //公共包
+│   │   ├── bizspring-base-core/  //核心公共包
+│   │   ├── bizspring-base-data/  //数据公共包
+│   │   ├── bizspring-base-datasource/  //数据源
+│   │   ├── bizspring-base-goods/  //商品服务公共包
+│   │   ├── bizspring-base-io/  //文件存储公共包
+│   │   ├── bizspring-base-marketing/  //营销服务公共包
+│   │   ├── bizspring-base-order/  //订单服务公共包
+│   │   ├── bizspring-base-security/  //认证公共包
+│   │   ├── bizspring-base-sms/  //平台服务公共包
+│   │   ├── bizspring-base-store/  //店铺服务公共包
+│   │   ├── bizspring-base-swagger/  //文档公共包
+│   │   ├── bizspring-base-upms/  //平台服务公共包
+│   ├── bizspring-business/  //商城服务包
+│   │   ├── bizspring-auth/  //认证服务
+│   │   ├── bizspring-goods/  //商品服务
+│   │   ├── bizspring-marketing/  //促销服务
+│   │   ├── bizspring-order/  //订单服务
+│   │   ├── bizspring-store/  //店铺服务
+│   │   ├── bizspring-upms/  //平台管理服务
+│   ├── bizspring-module/   //模组
+│   │   ├── bizspring-module-gateway/  //网关项目
+│   │   ├── bizspring-module-gen/   //代码生成器
+│   │   ├── bizspring-module-nacos/    //nacos项目
+│   ├── bizspring-i18n.iml
+│   └── pom.xml
+│
+└── 7.bizspring-i18n-sql/         //数据库脚本
+    ├── bizspring_i18n_config.sql      //nacos配置库
+    ├── bizspring_i18n_gen.sql         //代码生成库
+    ├── bizspring_i18n_goods.sql       //商品库
+    ├── bizspring_i18n_marketing.sql   //营销库
+    ├── bizspring_i18n_order.sql       //订单库
+    ├── bizspring_i18n_store.sql       //店铺库
+    └── bizspring_i18n_upms.sql        //系统管理库
+```
 
-**联营商业运营模式**<br />整合多方渠道供应商，以商品入库、统一仓储、统一物流的方式进行入库联营。平台自身通过代销或者直销的方式，将伙伴供应商资源纳入平台自营体系，建立多个自营店铺，多样化商品和服务品类，整合行业资源。平台与伙伴供应商以不同的方式定期进行财务结算。
-
-**招商模式**<br />平台企业通过建立线上商城，签约多方渠道供应商，通过会员、交易、平台和财务等管理，对平台进行运营。多方渠道供应商，以加盟签约形式，入驻B2B2C平台。入驻商家可自行管理商品、订单、仓储、物流、售后服务、营销推广等业务，定期与平台进行财务结算，入驻商家通过大平台流量、资源、营销服务等业务优势，强化自身品牌知名度，提高交易转化率。平台则可以多样化商品和服务品类，整合行业资源，收取商家等级费用、类目使用费用和平台佣金等。
-
-**混合模式**<br />一般为自营+招商、自营+联营+招商等模式，平台企业通过建立自营线上商城，整合自身多渠道业务，通过会员、商品、订单、财务和库存等管理系统，对线下线上多渠道业务进行统一管理。同时整合多方渠道供应商，以加盟签约形式，入驻B2B2C平台。入驻商家可自行管理商品、订单、仓储、物流、售后服务、营销推广等业务，定期与平台进行财务结算，商家无需自建电商平台通过大平台流量、资源、营销服务等业务优势，强化自身品牌知名度，提高交易转化率。平台则可以多样化商品和服务品类，整合行业资源，收取商家营销推广费用、类目使用费用和平台佣金等。
-# 商城优势
-### 电商业务完全掌上操作
-
-**BizSpring移动全端是基于ElementPlus + uniapp开发的移动端多平台同步构建的电商建设解决方案**。此架构一次开发发布到多个平台（H5、公众号、头条、抖音、小程序、iOS、Android 等），实现跨平台应用的快速建设和落地。
-
-- 最新的 UI 界面设计
-- 一次开发，跨平台发布，投入少、产出高
-- 移动全端，使用便捷、业务扩展快
-### 全端语言国际化
-
-1. **对于国际化电商、跨境电商及海外商运营者，实现电商语言国际化是必要的工作**。他们通常着眼于全球范围内贸易和客户，这样的贸易不仅让本国国民可以购买外国商品，也让外国消费者可以选择其本国商品实现双向贸易，只有具有逾越各种语言和文化习惯的用户群，才能取得更大的市场份额。
-2. **对于地方化语言电商运营者、多语言平台可以帮助企业实现地方化、区域化业务运营及扩展**。通过多种语言平台，企业可以更好地与来自不同文化背景的客户进行贸易，增加销售额和盈利能力。
-3. **多语言电商平台可以提高用户体验和满意度**。通过提供用户习惯使用的语言版本，用户可以更方便地使用平台和应用程序，减少沟通障碍和误解，提高用户忠诚度。
-4. **多语言平台还可以帮助企业或组织增强其国际形象和声誉**。提供多种语言版本可以显示企业对全球市场的重视和尊重，使其更具吸引力。
-### 商城业务基于多服务架构
-**BizSpring 电商平台使用业内优秀的架构设计理念**，将电商整套流程包括商品（product）、订单(order)，店铺(store)、营销(marketing)分别建设为不同的服务，降低了电商系统业务的耦合性，各服务可单独部署及集群化，提升了平台综合抗压能力，架构的灵活性和扩展性为产品后期升级服务提供捷径。
-
-- Elasticsearch搜素引擎
-- Redis缓存集群
-- Nacos注册中心
-- OpenFeign Ribbon负载均衡
-# BizSpring 产品功能
-**移动管理平台**<br />BizSpring管理平台使用响应式Web开发，使管理平台适配电脑、平板、手机等，有网即可管理，管理平台，是维护多店的后台系统，包括店铺管理、商品管理、订单管理、库存管理、促销管理、用户管理等多项功能，管理平台，能监管跟踪、订单销售数据，以及查看和分析销售环节、维护交易公平可靠。辅助商家更好地服务他们的客户。
-
-**移动商家平台**<br />BizSpring商家平台，让商家随时随地都能办公，无需在固定的地点维护自店商品。商家平台可以上传和编辑商品信息、设置价格、安排促销活动。除了基本的商品信息和价格设置，商家还可以在这里提供特殊的折扣或优惠，发布新品信息，发布营销活动等。此外，商家还可以通过该平台跟踪他们的订单状态，管理库存，以及查看和分析销售数据。
-
-**移动客户平台**<br />BizSpring客户平台，让消费者可以在任何地方、任何时间进行购物。客户端设计简洁，使用方便。消费者可以直接在移动设备上浏览和购买商品，也可以享受个性化的推荐和服务，查看商品详情，比较不同商家的价格和质量，下订单并支付。客户端平台也提供消费者与商家的沟通渠道，消费者可以提出问题或反馈，商家可以提供解答和服务。
-# 系统预览
-![跨境电商预览.jpg](https://upload-images.jianshu.io/upload_images/28926578-c92f4a5fac5a8e26.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## <font style="color:rgb(64, 72, 91);">系统展示</font>
+![](cb-shop2.png)
 
 # 试用体验
+| 系统 | H5二维码 | APP下载 | H5 URL | PC URL |
+| --- | --- | --- | --- | --- |
+| 商城 | ![输入图片说明](shop-h5.png) | ![输入图片说明](shop-apk.png) | https://cross-border.bizspring.cn/shop/# | https://cross-border.bizspring.cn/pc/# |
+| 商家 | ![输入图片说明](business-h5.png) | ![输入图片说明](business-apk.png) | https://cross-border.bizspring.cn/merchant/# | https://cross-border.bizspring.cn/biz/# |
+| 管理 | https://cross-border.bizspring.cn |  |  https://cross-border.bizspring.cn | https://cross-border.bizspring.cn |
 
-| 系统 | H5二维码 | APP下载 | H5 URL |
-|--|--|--|--|
-| 商城 | ![](https://raw.githubusercontent.com/BizSpringSource/bizspring-vue3-opensource/master/public/img/shop-h5.png) | ![](https://raw.githubusercontent.com/BizSpringSource/bizspring-vue3-opensource/master/public/img/shop-apk.png) | https://cross-border.bizspring.cn/shop/# |
-| 商家 | ![](https://raw.githubusercontent.com/BizSpringSource/bizspring-vue3-opensource/master/public/img/business-h5.png) | ![](https://raw.githubusercontent.com/BizSpringSource/bizspring-vue3-opensource/master/public/img/business-apk.png) | https://cross-border.bizspring.cn/business/# |
-| 管理 | https://cross-border.bizspring.cn |  |  https://cross-border.bizspring.cn |
 
 # 实施及售后
+## <font style="color:rgb(64, 72, 91);">部署教程</font>
+[https://docs.bizspring.cn/develop/deploy/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2-OPEN(develop-deploy-open).html](https://docs.bizspring.cn/develop/deploy/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2-OPEN(develop-deploy-open).html)
+
 ### 安装前准备
 我方提供电商平台的部署实施工作，客户需要准备的硬件环境，软件环境，网络环境，见部署准备文档
+
 ### 售后内容
 **技术支持**
 
@@ -110,11 +341,13 @@ BizSpring电商平台实现移动全渠道消费者覆盖，手机触屏商城�
 
 **客户支持及反馈接收**
 
-- 客户支持：为进一步提升我产品各方面体验，建立客户支持渠道，收集系统缺陷、更新需求和解答用户的问题和疑虑，提高用户满意度。
-## 技术服务
-- 销售-阿真 微信号： 16619915737
-- QQ技术交流群： 576790917
-- 公众号：BizSpring
-- 扫码了解开源跨境电商平台
++ 客户支持：为进一步提升我产品各方面体验，建立客户支持渠道，收集系统缺陷、更新需求和解答用户的问题和疑虑，提高用户满意度。
 
-![](https://upload-images.jianshu.io/upload_images/28926578-a28bc778b0299bee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## 技术服务
++ 销售-阿真 微信号： 16619915737
++ QQ技术交流群： 576790917
++ 扫码了解开源跨境电商平台
+
+## <font style="color:rgb(64, 72, 91);">您的点赞鼓励，是我们继续前进的动力~</font>
+## <font style="color:rgb(64, 72, 91);">您的点赞鼓励，是我们继续前进的动力~</font>
+## <font style="color:rgb(64, 72, 91);">您的点赞鼓励，是我们继续前进的动力~</font>
